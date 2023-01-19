@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Undergraduate in Computer Science at Western Washington University <span> 2018-2022</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <p>Completed my undergraduate studies where I recieved a B.S. in Computer Science, and a minor in Mathematics.</p>
                       </div>
                     </div>
                   </article>

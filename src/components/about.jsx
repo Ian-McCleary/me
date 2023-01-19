@@ -17,7 +17,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a computer science graduate from Western Washington University living in the Pacific Northwest. My main experience is in web and application development, although I have dabbled in machine learning as well.</p>
-                    <p>My hobbies outside of programming include biking and skiing in the Sawtooth and Costal mountains. I'm lucky to have such amazing scenery in my backyard.</p>
+                    <p>My hobbies outside of programming include biking and skiing in the Rocky and Coastal mountains. I'm lucky to have such amazing scenery in my backyard.</p>
                     </div>
                 </div>
                 </div>
@@ -30,7 +30,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">My Expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -63,7 +63,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Machine Learning</h3>
-                    <p>I have implemented and trained various regression algorithms using hyperparameter tuning in the field of chemistry.</p>
+                    <p>I have implemented and trained various regression neural networks using hyperparameter tuning in the field of chemistry.</p>
                 </div>
                 </div>
             </div>
