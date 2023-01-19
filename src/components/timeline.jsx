@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Undergraduate in Computer Science at Western Washington University <span> 2018-2022</span></h2>
+                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,35 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Artificial Intelligence in Solar Thermal Fuels Reseaerch <span> May 2021-Sept. 2021</span></h2>
+                        <p>Implemented regression neural networks to predict energy differences in Azobenzene's stable and metastable state. Root‐Mean‐Square error of predictions was 0.09 ev, outperforming standard computing models such as
+                          DFTB+. Implemented AI standards such as hyperparameter tuning, k‐fold cross validation, and performance loss curves.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Sales Representative at Paradise Creek Bicycles <span> May 2020-Sept. 2020</span></h2>
+                        <p> Assisted customers in determining the correct bike for their riding style. Managed point of sales system. Performed same day bike tunes and minor repairs.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Summer IT Intern <span> June 2018-Sept. 2018</span></h2>
+                        <p>Operated as part of the District’s IT team to maintain and upgrade information systems. Carried out individual and team projects such as replacing/re‐imaging computers and installing new CAT5 cable. 
+                          Installed and maintained various network devices such as printers, projectors, and CCTV cameras.
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +70,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Summer Software Engineering Intern (2 summers)<span> 2015-2016</span></h2>
+                        <p>Assisted in creating a web application using AngularJS, CSS, and HTML. Utilized API Get requests to populate the application with example data. Implemented Twitter Bootstrap for consistent layout and design across all web pages.
+                        Communicated with other teams using Slack in weekly update meetings.
+                        </p> 
                       </div>
                     </div>
                   </article>

@@ -16,16 +16,11 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-1.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											<h3><a href="work.html">Personal Website</a></h3>
+											<span>My personal site built with React and Bootstrap. You are here!</span>
 										</div>
 									</div>
 								</div>
@@ -34,28 +29,19 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											<h3><a href="https://github.com/Ian-McCleary/wire-validation-tool">PACCAR Wiring Validation Tool</a></h3>
+											<span>My senior project built for PACCAR employees to more efficiently troubleshoot wiring diagrams. I was on a team of 4 students, and we built this application in python.
+											</span>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/img-3.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											<h3><a href="https://github.com/Ian-McCleary/paint-by-numbers">Paint by Numbers</a></h3>
+											<span>In this personal project, I created a tool which allows users to upload any photo and generate a color by numbers sketch with a color pallet. This project was built using Processing 3, a language built on Java.</span>
 										</div>
 									</div>
 								</div>
@@ -64,13 +50,8 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											<h3><a href="https://github.com/Ian-McCleary/ImageProcessing">Image Processing in C</a></h3>
+											<span>After creating color by numbers, I explored edge detection using a laplacian filter in C. While the result was not ideal for paint by numbers, it was much more efficient than my own algorithm.</span>
 										</div>
 									</div>
 								</div>
@@ -79,28 +60,8 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
+											<h3><a href="https://github.com/Ian-McCleary/logosnet-chatroom">Online Chatroom in C</a></h3>
+											<span>In this project, I implemented socket.io into a C application for a chatroom application. This application follows the server client model where the clients must connect to the server to start chatting.</span>
 										</div>
 									</div>
 								</div>
