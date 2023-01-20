@@ -14,9 +14,9 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer science graduate from Western Washington University living in the Pacific Northwest. My main experience is in web and application development, although I have dabbled in machine learning as well.</p>
+                    <p>I am a computer science graduate from Western Washington University living in the Pacific Northwest. My main experience is in web and application development, although I have some experience in machine learning as well.</p>
                     <p>My hobbies outside of programming include biking and skiing in the Rocky and Coastal mountains. I'm lucky to have such amazing scenery in my backyard.</p>
                     </div>
                 </div>
@@ -29,7 +29,7 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
+                <span className="heading-meta">What are my strengths?</span>
                 <h2 className="colorlib-heading">My Expertise</h2>
             </div>
             </div>
